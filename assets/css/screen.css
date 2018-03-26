@@ -1,4 +1,10 @@
 body {
     background-image: url("../images/bg.jpg");
     background-size: 1000px 1000px;
+    color: red;
+    font-weight: bold;
+}
+
+h1.jumbotron {
+    background: none;
 }
